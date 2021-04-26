@@ -16,3 +16,8 @@
   background-color: #000000;
   margin-top: 20vh;
 }
+#navthings{
+  position: absolute;
+  padding-left: auto;
+  padding-right: auto;
+}
